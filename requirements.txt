@@ -1,0 +1,4 @@
+mistralai
+pypdf
+numpy
+streamlit
