@@ -1,0 +1,5 @@
+# fichiers a ne pas mettre sur GitHub
+__pycache__/
+*.pdf
+test.py
+.env
